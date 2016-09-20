@@ -1,5 +1,7 @@
 <html>
 <body>
-<body bgcolor="yellow">
-#个人简介
 
+#我的个人简介
+<hr />
+##我的基本信息
+>我的名字
